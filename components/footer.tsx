@@ -1,6 +1,5 @@
 "use client";
 
-import Image from 'next/image';
 import { LanguageSwitcher } from '@/components/language-switcher';
 import { ThemeToggle } from '@/components/theme-toggle';
 import { useTranslations } from 'next-intl';
@@ -14,13 +13,9 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-8">
           {/* Logo & Description */}
           <div className="md:col-span-2">
-            <Image
-              src="/streamhiblandscapetrnsprant.png"
-              alt="StreamHib Logo"
-              width={150}
-              height={40}
-              className="h-8 w-auto mb-4 brightness-0 invert"
-            />
+            <div className="h-8 w-32 bg-gradient-to-r from-blue-500 to-red-500 rounded flex items-center justify-center mb-4">
+              <span className="text-white font-bold text-lg">StreamHib</span>
+            </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
               {t('description')}
             </p>

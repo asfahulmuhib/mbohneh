@@ -18,14 +18,9 @@ export function Navbar() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
-            <Image
-              src="/streamhiblandscapetrnsprant.png"
-              alt="StreamHib Logo"
-              width={150}
-              height={40}
-              className="h-8 w-auto"
-              priority
-            />
+            <div className="h-8 w-32 bg-gradient-to-r from-blue-500 to-red-500 rounded flex items-center justify-center">
+              <span className="text-white font-bold text-lg">StreamHib</span>
+            </div>
           </div>
 
           {/* Desktop Navigation */}
