@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "title": "StreamHib - Tool Live Streaming 24/7 Tanpa Komputer | Server Streaming Otomatis",
+    "description": "StreamHib adalah tool live streaming 24/7 yang berjalan otomatis dari server. Live streaming tanpa komputer, tanpa ribet, tanpa khawatir mati sendiri. Coba gratis sekarang!"
+  },
+  "navbar": {
+    "features": "Fitur",
+    "pricing": "Harga",
+    "testimonials": "Testimoni",
+    "faq": "FAQ",
+    "startNow": "🚀 Mulai Sekarang"
+  },
+  "hero": {
+    "badge": "Sudah Dipercaya 100+ Content Creator",
+    "title": {
+      "part1": "Live Streaming 24/7",
+      "part2": "Tanpa Komputer",
+      "part3": "— Server Kami yang Handle!"
+    },
+    "description": "Bosan komputer overheat? HP cepat rusak? Internet sering putus? StreamHib solusinya! Upload video sekali, live streaming jalan terus dari server kami. Bahkan saat kamu tidur.",
+    "cta": {
+      "primary": "Coba Gratis 7 Hari",
+      "secondary": "🚀 Mulai Live Hari Ini"
+    },
+    "trust": {
+      "channels": "100+ Channel Aktif",
+      "rating": "4.9/5 Rating"
+    },
+    "dashboard": {
+      "title": "StreamHib Dashboard",
+      "status": "Status Live Streaming",
+      "live": "LIVE 24/7",
+      "duration": "Durasi Live",
+      "viewers": "Total Viewers",
+      "serverStatus": "Server Status",
+      "uptime": "99.9% Uptime",
+      "startLive": "▶ Start Live",
+      "setSchedule": "📅 Set Jadwal",
+      "online": "✅ 24/7 Online",
+      "webBased": "🌐 Web-Based"
+    }
+  },
+  "features": {
+    "title": "Kenapa Harus StreamHib? Karena Kita yang Repot, Kamu Tinggal Santai",
+    "description": "Udah capek komputer overheat tiap live streaming? HP battery drop gara-gara streaming berjam-jam? StreamHib hadir buat ngatasin semua masalah itu. Kamu fokus bikin konten, kami yang jaga live streaming kamu jalan terus.",
+    "items": [
+      {
+        "title": "Server kami yang streaming, bukan perangkat kamu",
+        "description": "Komputer kamu bisa dimatikan, HP bisa dicharge. Live streaming tetap jalan 24/7 dari server kami yang powerful."
+      },
+      {
+        "title": "Kontrol dari HP/laptop, kapan saja dimana saja",
+        "description": "Cukup buka browser, login dashboard. Mau di warung kopi atau di rumah, kamu bisa monitor dan kontrol live streaming."
+      },
+      {
+        "title": "Dijamin gak pernah mati mendadak",
+        "description": "Server kami monitoring 24/7 dengan backup otomatis. Uptime 99.9% - live streaming kamu aman dan stabil terus."
+      },
+      {
+        "title": "Jadwal otomatis - set sekali, jalan terus",
+        "description": "Mau live jam 8 pagi sampai 10 malam setiap hari? Tinggal set jadwal sekali, sistem otomatis handle semuanya."
+      },
+      {
+        "title": "Perfect untuk ASMR, musik, suara alam",
+        "description": "Upload 1 video musik relaksasi atau ASMR, akan loop terus selama live aktif. Cocok banget untuk konten ambient."
+      },
+      {
+        "title": "Gampang banget - upload, set, live!",
+        "description": "Gak perlu jadi programmer. Upload video, atur jadwal, klik start. 3 langkah doang, live streaming 24/7 siap jalan."
+      }
+    ],
+    "howTo": {
+      "title": "Cara Pakai StreamHib - Gampang Banget!",
+      "subtitle": "Cuma 3 langkah, live streaming 24/7 kamu langsung jalan",
+      "steps": [
+        {
+          "title": "Upload Video",
+          "description": "Upload video yang mau di-loop untuk live streaming kamu"
+        },
+        {
+          "title": "Set Jadwal",
+          "description": "Tentukan jam berapa live dimulai dan berapa lama durasinya"
+        },
+        {
+          "title": "Santai Aja",
+          "description": "Server kami yang handle, live streaming jalan 24/7 tanpa gangguan"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "badge": "Dipercaya 100+ Content Creator Indonesia",
+    "title": "Mereka Udah Ngerasain, Sekarang Giliran Kamu",
+    "description": "Jangan cuma dengerin kata kami. Ini testimoni real dari content creator yang udah merasakan kemudahan StreamHib",
+    "items": [
+      {
+        "name": "Andi S.",
+        "channel": "Relaxing Music ID",
+        "content": "Udah 1 bulan live nonstop, gila sih! Dulu pakai komputer sendiri, 2 hari udah overheat. Sekarang tenang banget, tinggal cek dari HP doang.",
+        "duration": "1 bulan live"
+      },
+      {
+        "name": "Maya R.",
+        "channel": "ASMR Hujan",
+        "content": "Pernah pakai yang lain, 3 hari mati. Pindah ke StreamHib, udah 2 minggu lancar jaya! Channel ASMR gue sekarang live 24/7 tanpa drama.",
+        "duration": "2 minggu live"
+      },
+      {
+        "name": "Budi T.",
+        "channel": "Lo-Fi Beats",
+        "content": "Cuma modal HP dan dashboard ini, live terus jalan. Subscriber naik terus karena selalu ada konten. ROI-nya gila!",
+        "duration": "3 minggu live"
+      },
+      {
+        "name": "Sari K.",
+        "channel": "Nature Sounds",
+        "content": "Sebagai content creator yang sibuk kerja, StreamHib life saver banget. Set jadwal sekali, live otomatis jalan pas jam prime time.",
+        "duration": "2 minggu live"
+      },
+      {
+        "name": "Doni P.",
+        "channel": "Chill Vibes",
+        "content": "Server stabil parah, dashboard gampang banget dipahami. Yang paling penting, live streaming gak pernah putus-putus lagi.",
+        "duration": "1 minggu live"
+      },
+      {
+        "name": "Lisa M.",
+        "channel": "Study Music",
+        "content": "Perfect banget buat channel musik study. Viewers selalu ada karena live 24/7. Engagement naik 300% sejak pakai StreamHib!",
+        "duration": "3 minggu live"
+      }
+    ],
+    "stats": {
+      "channels": "Channel Aktif",
+      "uptime": "Server Uptime",
+      "monitoring": "Monitoring",
+      "totalHours": "Jam Live Total"
+    }
+  },
+  "pricing": {
+    "title": "Harga yang Masuk Akal untuk Hasil yang Gak Masuk Akal",
+    "description": "Mulai dari Rp200k/bulan, kamu udah bisa live streaming 24/7 tanpa ribet. Lebih murah dari beli komputer baru yang bakal overheat lagi.",
+    "offer": "🔥 Coba gratis 7 hari, gak perlu kartu kredit!",
+    "plans": [
+      {
+        "name": "Set 1",
+        "price": "200k",
+        "description": "Buat kamu yang baru mau coba live streaming 24/7",
+        "popular": false,
+        "cta": "Mulai Sekarang",
+        "features": [
+          "10 Live, 720p, FPS 30, Bit 2500",
+          "8 Live, 1080p, FPS 30, Bit 6500",
+          "Sewaktu-waktu IP Berubah",
+          "Support YouTube & Facebook",
+          "Fitur Penjadwalan Youtube",
+          "Memakai Server DO",
+          "Penyimpanan 60GB",
+          "Support Banyak Channel Youtube"
+        ]
+      },
+      {
+        "name": "Set 2",
+        "price": "250k",
+        "description": "Untuk content creator serius yang mau scale up",
+        "popular": true,
+        "cta": "Pilih Set 2",
+        "features": [
+          "25 Live, 720p, FPS 30, Bit 2500",
+          "17 Live, 1080p, FPS 30, Bit 6500",
+          "8 Live, 4k, FPS 30, Bit 12000",
+          "Support YouTube & Facebook",
+          "Fitur Penjadwalan Youtube",
+          "Lebih Stabil & IP Tidak Berubah",
+          "Penyimpanan 40GB",
+          "Support Banyak Channel Youtube"
+        ]
+      },
+      {
+        "name": "Set 3",
+        "price": "350k",
+        "description": "Solusi lengkap untuk agency atau tim besar",
+        "popular": false,
+        "cta": "Pilih Set 3",
+        "features": [
+          "52 Live, 720p, FPS 30, Bit 2500",
+          "33 Live, 1080p, FPS 30, Bit 6500",
+          "14 Live, 4k, FPS 30, Bit 12000",
+          "Support YouTube & Facebook",
+          "Fitur Penjadwalan Youtube",
+          "Lebih Stabil & IP Tidak Berubah",
+          "Penyimpanan 80GB",
+          "Support Banyak Channel Youtube"
+        ]
+      }
+    ],
+    "benefits": [
+      "Mulai dari Rp200k/bulan",
+      "Gratis 7 hari, tanpa kartu kredit",
+      "Aktif dalam 5 menit!"
+    ],
+    "cta": {
+      "primary": "🔥 Coba Gratis Sekarang",
+      "secondary": "🚀 Mulai Live Hari Ini"
+    },
+    "note": "💡 Setup cuma 5 menit, langsung bisa live streaming 24/7"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Ditanyain",
+    "description": "Masih bingung atau ragu? Ini jawaban buat pertanyaan yang paling sering ditanyain sama calon user StreamHib",
+    "items": [
+      {
+        "question": "Apa harus install software atau aplikasi?",
+        "answer": "Gak perlu install apa-apa! StreamHib berbasis web, bisa dibuka dari HP atau laptop. Cukup buka browser, login ke dashboard, dan kamu udah bisa kontrol live streaming dari mana aja."
+      },
+      {
+        "question": "Gimana kalau internet rumah gue mati?",
+        "answer": "Santai aja! Live streaming jalan di server kami, bukan di perangkat kamu. Jadi meskipun internet kamu mati, live streaming tetap jalan normal. Kamu cuma butuh internet buat akses dashboard kontrol."
+      },
+      {
+        "question": "Bisa set jadwal live otomatis gak?",
+        "answer": "Bisa banget! Tinggal atur jamnya di dashboard, terus sistem kami otomatis mulai/stop live sesuai jadwal. Kamu bisa set jadwal harian, mingguan, atau custom sesuai kebutuhan."
+      },
+      {
+        "question": "Video bisa di-loop terus gak?",
+        "answer": "Bisa dong! Kamu upload 1 video, bakal terus diputar selama live aktif. Perfect banget buat konten kayak musik relaksasi, ASMR, suara hujan, atau video ambient lainnya."
+      },
+      {
+        "question": "Kualitas streaming gimana? Bisa HD?",
+        "answer": "Server kami support streaming sampai 1080p 60fps dengan bitrate stabil. Kualitas bakal otomatis menyesuaikan dengan koneksi viewer buat pengalaman terbaik."
+      },
+      {
+        "question": "Ada batasan durasi live gak?",
+        "answer": "Gak ada batasan! Kamu bisa live 24/7 selama langganan masih aktif. Server kami didesain khusus buat live streaming jangka panjang tanpa gangguan."
+      },
+      {
+        "question": "Cara upload video gimana?",
+        "answer": "Gampang banget! Login ke dashboard, klik 'Upload Video', pilih file dari perangkat kamu, tunggu proses upload selesai, terus video siap buat di-streaming."
+      },
+      {
+        "question": "Bisa streaming ke beberapa platform sekaligus?",
+        "answer": "Bisa! Kamu bisa streaming simultan ke YouTube, Facebook, Twitch, dan platform lainnya dari satu dashboard. Fitur ini tersedia di paket Pro dan Business."
+      },
+      {
+        "question": "Kalau ada masalah, support-nya gimana?",
+        "answer": "Kami sediain support email untuk semua paket, priority support buat paket Pro, dan 24/7 phone support buat paket Business. Tim support kami siap bantu kapan aja."
+      },
+      {
+        "question": "Data dan video gue aman gak?",
+        "answer": "Pasti aman! Kami pakai enkripsi SSL, backup otomatis, dan server yang memenuhi standar keamanan internasional. Video dan data kamu terlindungi dengan baik."
+      }
+    ],
+    "contact": {
+      "title": "Masih Ada yang Mau Ditanyain?",
+      "description": "Tim support kami siap bantu kamu 24/7. Jangan ragu buat tanya apa aja!",
+      "email": "📧 Email Support",
+      "whatsapp": "💬 WhatsApp"
+    }
+  },
+  "footer": {
+    "description": "StreamHib adalah solusi live streaming 24/7 yang berjalan otomatis dari server. Tanpa install, tanpa ribet, tanpa khawatir mati sendiri.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "links": {
+      "features": "Fitur",
+      "pricing": "Harga",
+      "testimonials": "Testimoni",
+      "faq": "FAQ",
+      "emailSupport": "Email Support",
+      "whatsapp": "WhatsApp",
+      "knowledgeBase": "Knowledge Base",
+      "statusPage": "Status Page"
+    },
+    "copyright": "© 2024 StreamHib. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  }
+}

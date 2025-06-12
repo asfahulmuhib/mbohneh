@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "title": "StreamHib - 24/7 Live Streaming Tool Without Computer | Automatic Streaming Server",
+    "description": "StreamHib is a 24/7 live streaming tool that runs automatically from the server. Live streaming without computer, no hassle, no worries about sudden shutdown. Try free now!"
+  },
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "startNow": "🚀 Start Now"
+  },
+  "hero": {
+    "badge": "Trusted by 100+ Content Creators",
+    "title": {
+      "part1": "24/7 Live Streaming",
+      "part2": "Without Computer",
+      "part3": "— Our Server Handles It!"
+    },
+    "description": "Tired of computer overheating? Phone battery draining from hours of streaming? Internet often disconnects? StreamHib is the solution! Upload video once, live streaming runs continuously from our server. Even while you sleep.",
+    "cta": {
+      "primary": "Try Free 7 Days",
+      "secondary": "🚀 Start Live Today"
+    },
+    "trust": {
+      "channels": "100+ Active Channels",
+      "rating": "4.9/5 Rating"
+    },
+    "dashboard": {
+      "title": "StreamHib Dashboard",
+      "status": "Live Streaming Status",
+      "live": "LIVE 24/7",
+      "duration": "Live Duration",
+      "viewers": "Total Viewers",
+      "serverStatus": "Server Status",
+      "uptime": "99.9% Uptime",
+      "startLive": "▶ Start Live",
+      "setSchedule": "📅 Set Schedule",
+      "online": "✅ 24/7 Online",
+      "webBased": "🌐 Web-Based"
+    }
+  },
+  "features": {
+    "title": "Why Choose StreamHib? Because We Handle the Hassle, You Just Relax",
+    "description": "Tired of computer overheating every live stream? Phone battery dropping from hours of streaming? StreamHib is here to solve all these problems. You focus on creating content, we keep your live streaming running continuously.",
+    "items": [
+      {
+        "title": "Our server streams, not your device",
+        "description": "Your computer can be turned off, phone can be charged. Live streaming continues 24/7 from our powerful server."
+      },
+      {
+        "title": "Control from phone/laptop, anytime anywhere",
+        "description": "Just open browser, login dashboard. Whether at coffee shop or home, you can monitor and control live streaming."
+      },
+      {
+        "title": "Guaranteed never sudden shutdown",
+        "description": "Our server monitors 24/7 with automatic backup. 99.9% uptime - your live streaming is safe and stable continuously."
+      },
+      {
+        "title": "Automatic scheduling - set once, runs forever",
+        "description": "Want to live from 8 AM to 10 PM every day? Just set schedule once, system automatically handles everything."
+      },
+      {
+        "title": "Perfect for ASMR, music, nature sounds",
+        "description": "Upload 1 relaxing music or ASMR video, will loop continuously while live is active. Perfect for ambient content."
+      },
+      {
+        "title": "Super easy - upload, set, live!",
+        "description": "No need to be a programmer. Upload video, set schedule, click start. Just 3 steps, 24/7 live streaming ready to go."
+      }
+    ],
+    "howTo": {
+      "title": "How to Use StreamHib - Super Easy!",
+      "subtitle": "Just 3 steps, your 24/7 live streaming is ready",
+      "steps": [
+        {
+          "title": "Upload Video",
+          "description": "Upload video you want to loop for your live streaming"
+        },
+        {
+          "title": "Set Schedule",
+          "description": "Determine what time live starts and how long the duration"
+        },
+        {
+          "title": "Just Relax",
+          "description": "Our server handles it, live streaming runs 24/7 without interruption"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "badge": "Trusted by 100+ Indonesian Content Creators",
+    "title": "They've Experienced It, Now It's Your Turn",
+    "description": "Don't just listen to us. These are real testimonials from content creators who have experienced StreamHib's convenience",
+    "items": [
+      {
+        "name": "Andi S.",
+        "channel": "Relaxing Music ID",
+        "content": "Been live nonstop for 1 month, crazy! Used to use my own computer, 2 days already overheated. Now very calm, just check from phone.",
+        "duration": "1 month live"
+      },
+      {
+        "name": "Maya R.",
+        "channel": "ASMR Rain",
+        "content": "Used another service, died in 3 days. Switched to StreamHib, been smooth for 2 weeks! My ASMR channel now live 24/7 without drama.",
+        "duration": "2 weeks live"
+      },
+      {
+        "name": "Budi T.",
+        "channel": "Lo-Fi Beats",
+        "content": "Just with phone and this dashboard, live keeps running. Subscribers keep growing because there's always content. ROI is crazy!",
+        "duration": "3 weeks live"
+      },
+      {
+        "name": "Sari K.",
+        "channel": "Nature Sounds",
+        "content": "As a content creator busy with work, StreamHib is a life saver. Set schedule once, live automatically runs during prime time.",
+        "duration": "2 weeks live"
+      },
+      {
+        "name": "Doni P.",
+        "channel": "Chill Vibes",
+        "content": "Server is super stable, dashboard is very easy to understand. Most importantly, live streaming never cuts out anymore.",
+        "duration": "1 week live"
+      },
+      {
+        "name": "Lisa M.",
+        "channel": "Study Music",
+        "content": "Perfect for study music channel. Viewers are always there because live 24/7. Engagement increased 300% since using StreamHib!",
+        "duration": "3 weeks live"
+      }
+    ],
+    "stats": {
+      "channels": "Active Channels",
+      "uptime": "Server Uptime",
+      "monitoring": "Monitoring",
+      "totalHours": "Total Live Hours"
+    }
+  },
+  "pricing": {
+    "title": "Reasonable Price for Unreasonable Results",
+    "description": "Starting from Rp200k/month, you can already live stream 24/7 without hassle. Cheaper than buying a new computer that will overheat again.",
+    "offer": "🔥 Try free for 7 days, no credit card needed!",
+    "plans": [
+      {
+        "name": "Set 1",
+        "price": "200k",
+        "description": "For those who want to try 24/7 live streaming",
+        "popular": false,
+        "cta": "Start Now",
+        "features": [
+          "10 Live, 720p, FPS 30, Bit 2500",
+          "8 Live, 1080p, FPS 30, Bit 6500",
+          "IP May Change Occasionally",
+          "Support YouTube & Facebook",
+          "YouTube Scheduling Feature",
+          "Using DO Server",
+          "60GB Storage",
+          "Support Multiple YouTube Channels"
+        ]
+      },
+      {
+        "name": "Set 2",
+        "price": "250k",
+        "description": "For serious content creators who want to scale up",
+        "popular": true,
+        "cta": "Choose Set 2",
+        "features": [
+          "25 Live, 720p, FPS 30, Bit 2500",
+          "17 Live, 1080p, FPS 30, Bit 6500",
+          "8 Live, 4k, FPS 30, Bit 12000",
+          "Support YouTube & Facebook",
+          "YouTube Scheduling Feature",
+          "More Stable & IP Doesn't Change",
+          "40GB Storage",
+          "Support Multiple YouTube Channels"
+        ]
+      },
+      {
+        "name": "Set 3",
+        "price": "350k",
+        "description": "Complete solution for agencies or large teams",
+        "popular": false,
+        "cta": "Choose Set 3",
+        "features": [
+          "52 Live, 720p, FPS 30, Bit 2500",
+          "33 Live, 1080p, FPS 30, Bit 6500",
+          "14 Live, 4k, FPS 30, Bit 12000",
+          "Support YouTube & Facebook",
+          "YouTube Scheduling Feature",
+          "More Stable & IP Doesn't Change",
+          "80GB Storage",
+          "Support Multiple YouTube Channels"
+        ]
+      }
+    ],
+    "benefits": [
+      "Starting from Rp200k/month",
+      "Free 7 days, no credit card",
+      "Active in 5 minutes!"
+    ],
+    "cta": {
+      "primary": "🔥 Try Free Now",
+      "secondary": "🚀 Start Live Today"
+    },
+    "note": "💡 Setup only 5 minutes, immediately can live stream 24/7"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Still confused or hesitant? Here are answers to the most frequently asked questions by potential StreamHib users",
+    "items": [
+      {
+        "question": "Do I need to install software or applications?",
+        "answer": "No need to install anything! StreamHib is web-based, can be opened from phone or laptop. Just open browser, login to dashboard, and you can control live streaming from anywhere."
+      },
+      {
+        "question": "What if my home internet dies?",
+        "answer": "Relax! Live streaming runs on our server, not on your device. So even if your internet dies, live streaming continues normally. You only need internet to access the control dashboard."
+      },
+      {
+        "question": "Can I set automatic live schedule?",
+        "answer": "Absolutely! Just set the time in dashboard, then our system automatically starts/stops live according to schedule. You can set daily, weekly, or custom schedule as needed."
+      },
+      {
+        "question": "Can videos be looped continuously?",
+        "answer": "Of course! You upload 1 video, it will keep playing while live is active. Perfect for content like relaxing music, ASMR, rain sounds, or other ambient videos."
+      },
+      {
+        "question": "How's the streaming quality? Can it be HD?",
+        "answer": "Our server supports streaming up to 1080p 60fps with stable bitrate. Quality will automatically adjust to viewer's connection for the best experience."
+      },
+      {
+        "question": "Is there a live duration limit?",
+        "answer": "No limit! You can live 24/7 as long as subscription is active. Our server is designed specifically for long-term live streaming without interruption."
+      },
+      {
+        "question": "How to upload videos?",
+        "answer": "Super easy! Login to dashboard, click 'Upload Video', select file from your device, wait for upload process to complete, then video is ready for streaming."
+      },
+      {
+        "question": "Can I stream to multiple platforms simultaneously?",
+        "answer": "Yes! You can stream simultaneously to YouTube, Facebook, Twitch, and other platforms from one dashboard. This feature is available in Pro and Business packages."
+      },
+      {
+        "question": "If there's a problem, how's the support?",
+        "answer": "We provide email support for all packages, priority support for Pro package, and 24/7 phone support for Business package. Our support team is ready to help anytime."
+      },
+      {
+        "question": "Are my data and videos safe?",
+        "answer": "Definitely safe! We use SSL encryption, automatic backup, and servers that meet international security standards. Your videos and data are well protected."
+      }
+    ],
+    "contact": {
+      "title": "Still Have Questions?",
+      "description": "Our support team is ready to help you 24/7. Don't hesitate to ask anything!",
+      "email": "📧 Email Support",
+      "whatsapp": "💬 WhatsApp"
+    }
+  },
+  "footer": {
+    "description": "StreamHib is a 24/7 live streaming solution that runs automatically from the server. No installation, no hassle, no worries about sudden shutdown.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "links": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "testimonials": "Testimonials",
+      "faq": "FAQ",
+      "emailSupport": "Email Support",
+      "whatsapp": "WhatsApp",
+      "knowledgeBase": "Knowledge Base",
+      "statusPage": "Status Page"
+    },
+    "copyright": "© 2024 StreamHib. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  }
+}
