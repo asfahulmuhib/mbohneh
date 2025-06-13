@@ -19,10 +19,12 @@ const nextConfig = {
   },
   experimental: {
     esmExternals: false,
+    serverComponentsExternalPackages: ['next-intl'],
   },
   typescript: {
     ignoreBuildErrors: true,
   },
+  swcMinify: false,
 };
 
 module.exports = withNextIntl(nextConfig);
