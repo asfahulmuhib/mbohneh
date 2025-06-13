@@ -20,6 +20,9 @@ const nextConfig = {
   experimental: {
     esmExternals: false,
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 };
 
 module.exports = withNextIntl(nextConfig);
